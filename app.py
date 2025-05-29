@@ -1,8 +1,3 @@
-"""
-Enhanced Skin Tone Analysis Flask Application
-Improved with better fuzzy logic, dynamic recommendations, and personalized explanations
-"""
-
 import cv2
 import os
 import numpy as np
